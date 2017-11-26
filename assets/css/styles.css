@@ -1,0 +1,69 @@
+body {
+	margin: auto;
+}
+
+* {
+	box-sizing: border-box;
+	text-align: center
+}
+
+.container {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	clear: both;
+}
+
+.jumbotron {
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h3 {
+	font-size: 15px;
+	text-align: left;
+	padding-left: 15px;
+}
+
+.left-field {
+	margin-top: 5px;
+	padding-bottom: 100px;
+	margin-right: 5px;
+}
+
+.right-field {
+	margin-top: 5px;
+}
+
+.navbar-form {
+	margin-top: 12px;
+	margin-left: -5px;
+	margin-right: -5px;
+	max-width: auto;
+}
+
+.btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.panel-body {
+	height: 50px;
+}
+
+#button-view {
+	margin-bottom: 20px;
+}
+
+#gifs-here {
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.floatLeft {
+	float: left;
+}
+
