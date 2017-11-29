@@ -1,69 +1,44 @@
+
 body {
-	margin: auto;
-}
-
-* {
-	box-sizing: border-box;
-	text-align: center
-}
-
-.container {
-	width: 100%;
-	max-width: 1024px;
-	margin: 0 auto;
-	clear: both;
-}
-
-.jumbotron {
-	margin-top: 25px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+    background-image: url(..//images/dark-brown-fur.jpg);
+    background-size: 500px;
+    font-family: 'Lobster', cursive;
 }
 
 h3 {
-	font-size: 15px;
-	text-align: left;
-	padding-left: 15px;
-}
-
-.left-field {
-	margin-top: 5px;
-	padding-bottom: 100px;
-	margin-right: 5px;
-}
-
-.right-field {
-	margin-top: 5px;
-}
-
-.navbar-form {
-	margin-top: 12px;
-	margin-left: -5px;
-	margin-right: -5px;
-	max-width: auto;
-}
-
-.btn {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	float: left;
-}
-
-.panel-body {
-	height: 50px;
+    text-align: left;
+    padding-left: 15px;
 }
 
 #button-view {
-	margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 #gifs-here {
-	margin-left: 20px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .floatLeft {
-	float: left;
+    float: left;
+    margin: 30px;
 }
 
+.header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    background-color: #009933;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#add-topic {
+    margin-top: 10px;
+}
