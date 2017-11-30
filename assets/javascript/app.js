@@ -69,7 +69,7 @@ function renderButtons() {
     for (var i = 0; i < gifTopics.length; i++) {
         // Then dynamicaly generating buttons for each topics in the array.
         // This code $("<button>") is all jQuery needs to create the start and end tag. (<button></button>)
-        var a = $("<button class='btn btn-success'>");
+        var a = $("<button class='ma-sm btn btn-success'>");
         // Adding a class
         a.addClass("topic");
         // Adding a data-attribute with a value of the topics at index i

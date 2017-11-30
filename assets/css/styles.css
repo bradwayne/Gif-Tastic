@@ -44,19 +44,6 @@ h1 {
     margin-top: 10px;
 }
 
-@media screen and (max-width: 980px) {
-  body {
-
+.ma-sm {
+	margin:10px;
 }
-
-
-@media screen and (max-width: 768px) {
-  body {
-
-  }
-
-
-@media screen and (max-width: 640px) {
-  body {
-
-  }
