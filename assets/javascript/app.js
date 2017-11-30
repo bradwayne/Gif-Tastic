@@ -1,5 +1,6 @@
+
 var gifTopics = ['kittens', 'puppies', 'owls', 'bunnies', 'fish', 'sharks', 'chinchillas',
-    'bats', 'hedgehog', 'cows', 'birds', 'turtles', 'vultures', 'frogs', 'lizards',
+    'bats', 'hedgehog', 'cows', 'birds', 'turtles', 'frogs', 'lizards',
     'skunks', 'ferrets', 'pigs'
 ];
 
