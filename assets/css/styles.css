@@ -1,13 +1,13 @@
 
 body {
-    background-image: url(..//images/dark-brown-fur.jpg);
     background-size: 500px;
-    font-family: 'Lobster', cursive;
 }
 
-h3 {
-    text-align: left;
-    padding-left: 15px;
+h1 {
+    text-align: center;
+/*    font-family: 'Ranchers', cursive; */ 
+    font-family: 'Shrikhand', cursive; 
+    font-size: 125px;
 }
 
 #button-view {
@@ -29,7 +29,7 @@ h3 {
     margin-top: 25px;
     margin-bottom: 25px;
     text-align: center;
-    background-color: #009933;
+    background-color: #ccc;
     color: white;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -40,10 +40,3 @@ h1 {
     font-size: 70px;
 }
 
-#add-topic {
-    margin-top: 10px;
-}
-
-.ma-sm {
-	margin:10px;
-}
