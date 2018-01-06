@@ -109,5 +109,5 @@ var gifImg = $(this);
       }
     });
 
-// Calling the renderButtons function at least once to display the initial list of movies
+// Calling the renderButtons function at least once to display the initial list of animals
 renderButtons();
